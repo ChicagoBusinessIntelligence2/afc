@@ -1,0 +1,349 @@
+@import "compass";
+@import "app";
+@ivclude global-reset;
+@import url(http://fonts.googleapis.com/css?family=Romanesco);
+//LOCATION: afc/home 
+ // @import "sassy-buttons";
+
+
+
+ * {
+ 	vertical-align: top;
+ 	font-weight: inherit;
+ 	font-family: inherit;
+ 	font-style: inherit;
+ 	font-size: 100%;
+ 	border: 0 none;
+ 	outline: 0;
+ 	padding: 0;
+ 	margin: 0;
+ }
+ $colorTop-bar: #111111;
+ $colorHeader: #11171C;
+ $colorDivider: #F5B949;
+ $colorDividerTop: #226CDD;
+ $colorMainContent: #C0C0C0;
+ $colorleftSideBar: #D1D6DC;
+ $colorFontContent: #525252;
+ $colorBody: #525C69;
+ $colorFontMenu: lighten($colorBody, 50%);
+ $colorGray1: #161616;
+ $colorGray2: #0D0F13;
+ $colorGray3: #D8E5E9;
+ $colorGray4: #e7f1f5;
+ $color-top-bar-section: lighten(#525C69, 50%);
+ .menuFont{
+
+ 	color: $colorFontMenu!important;
+ }
+
+ body{
+ 	background-color:$colorBody;
+ 	font-family: "HelveticaNeue","Helvetica Neue", Helvetica, Arial,"Lucida Grande", sans-serif;
+ }
+
+ .dividerTop{
+ 	background-color: $colorDividerTop;
+ 	height: 3px;
+ }
+
+ .divider{
+ 	background-color: $colorDivider;
+ 	height: 2px;
+ }
+ .top-bar{
+ 	margin-bottom: 0px;
+ }
+ .lfooter li{
+ 	vertical-align: middle;
+ 	position:relative;
+
+ 	img{
+ 		display:inline;
+ 		padding-right: 10px;
+ 	}
+ 	span{
+ 		display:inline;
+ 		position:absolute;
+ 		top:50%;
+ 		margin-top: -12px;
+ 	}
+
+ 	&:nth-child(1){
+ 		width: 150px !important;
+ 	}
+
+ 	&:nth-child(2){
+ 		width: 290px !important;
+ 	}
+
+ 	&:nth-child(3){
+ 		width: 250px !important;
+ 	}
+ }
+ 
+ .header{
+ 	overflow: auto;
+ 	width: 100%;
+ 	background-color: $colorHeader;
+
+ }
+ .logoWrapper{
+ 	width: 400px;
+ 	float: left;
+ }
+
+ .contactHeader{
+ 	float: left;
+ 	width: 420px;
+ 	text-align:left;
+ 	color: $colorFontMenu!important;
+ 	font-family: 'Romanesco';
+ 	margin-top:12px;
+ 	font-size: 210%;
+ }
+
+ .loginForm{
+ 	float: left;
+ 	margin-left:30px;
+ 	color: $colorFontMenu!important;
+ 	padding: 7px 7px 7px 17px;
+ 	width: 370px;
+ 	input[type=text],input[type=password]{
+ 		display:inline;
+ 		width: 140px;
+ 		height:30px;
+ 		margin-top: 5px;
+ 		margin-bottom: 0px;
+ 		@include border-radius(5px);
+ 		border:2px solid lighten(black, 10%);
+ 		background-color: lighten($colorDivider, 10%);
+ 	}
+ 	@include box-shadow;	
+ 	form{
+ 		margin: 0px;
+ 	}
+
+ 	input.button.tiny, button.button.tiny{
+ 		margin-top: 7px !important;
+ 	}
+ 	.uname{
+ 		display:inline-block;
+ 		padding:10px;
+ 		width: 100px;
+ 		vertical-align:top;
+ 	}
+ }
+ button, .button {
+ 	background-color: darken($colorBody, 10%);
+ 	border-color: lighten($colorBody, 10%);
+ 	border-style: solid;
+ 	border-width: 1px;
+ 	color: white;
+ 	font-family: inherit;
+ 	font-weight: bold;
+ 	line-height: 1;
+ 	margin: 0 0 1.25em;
+ 	padding: 0.75em 1.5em 0.8125em;
+ 	position: relative;
+ 	text-align: center;
+ 	text-decoration: none;
+ }
+ .button:hover, .button:focus{
+
+ 	background-color: lighten($colorBody, 20%);
+ 	border-color: $colorBody;
+ }
+
+ .SignInTitle{
+ 	font-size: 190%;
+ 	font-family: 'Romanesco';
+ 	width:200px;
+ 	margin:0px auto;
+ }
+ .plCall{
+ 	font-family: "Sans Unicode", helvetica, verdana, arial, times, "Times New Roman", sans-serif;
+ 	font-size: 45%;
+ 	margin-top:10px;
+ }
+
+ .homeIcon{
+ 	margin-top: 90px;
+ 	width: 24px;
+ 	float: right;
+ 	margin-right: 10px;
+
+ }
+ .mailIcon{
+ 	@extend .homeIcon;
+ 	margin-top: 92px;
+ }
+
+ #mailIcon1{
+ 	cursor:pointer;
+ 	padding:2px;
+ }
+ #homeIcon{
+ 	@extend #mailIcon1;
+ }
+ .mainContentWrapper{
+ 	overflow: auto;
+ 	width: 1100px;
+ 	margin: 0 auto;
+ }
+ .sideBar{
+ 	min-height: 550;
+ 	float: left;
+ 	padding: 20px;
+ 	width: 300px;
+ 	background-color: $colorleftSideBar;
+ }
+ .side-nav{
+ 	li{
+ 		a{
+ 			font-size: 16px;
+ 			font-weight: bold;
+ 			color: lighten($colorHeader, 25%);
+ 		}
+ 	}
+ }
+
+ .mainContent{
+ 	min-height: 550;
+ 	float: left;
+ 	padding: 20px;
+ 	background-color: $colorMainContent;
+ }
+ .logoWrapper{
+
+ }
+ .socmed  li a{
+ 	&:hover{
+ 		background-color:darken(#fad255, 30%)!important;
+ 	}
+ }
+
+ .navRight {
+ 	margin:0px!important;
+ 	padding:0px!important;
+ 	height:20px!important;
+ 	line-height:14px!important;
+ 	&:li{
+
+ 		line-height:14px!important;
+ 		font-size: 85%!important;
+ 		height:20px!important;
+
+ 		&:a{
+
+ 			line-height:14px!important;
+ 			font-size: 85%!important;
+ 		}
+ 	}	
+ }
+
+ .myNavPanel{
+ 	@extends .navPanel;
+ 	height:48px;
+ }
+ .mTopBar{
+ 	height:47px!important;
+ }
+ .footer{
+ 	background-color:#111111;
+ }
+ .bwLogo{
+ 	align:left;
+ } 
+ .imgLogo{
+ 	margin-left:50px;
+ }
+
+
+ .copyright{
+ 	color: white;
+ 	font-size: 75%;
+ 	padding-top: 1.1em;
+ }
+ #wrapper { width: 640px; margin: 0 auto; padding: 30px 45px; }
+
+ #inline { width: 400px; 
+ 	background-color:lighten($colorBody, 50%);
+ 	border: 3px solid black;
+ 	padding: 1em 1em 1em 1em;
+ 	float: left;
+ 	width:600px;
+ 	position:absolute;
+ 	right:400px;
+ 	top:150px;
+ 	display:none;
+ 	h2{
+ 		color: #2D2E27;
+ 	}	
+ }
+
+ label { margin-right: 12px; margin-bottom: 9px; font-family: Georgia, serif; color: #646464; font-size: 1.2em; }
+
+ .txt { 
+ 	display: inline-block; 
+ 	color: #676767;
+ 	width: 300px!important; 
+ 	font-family: Arial, Tahoma, sans-serif; 
+ 	margin-bottom: 10px; 
+ 	border: 1px dotted #ccc; 
+ 	padding: 5px 9px;
+ 	font-size: 1.2em;
+ 	line-height: 1.4em;
+ }
+
+ .txtarea { 
+ 	display: block; 
+ 	color: #676767;
+ 	font-family: Arial, Tahoma, sans-serif; 
+ 	margin-bottom: 10px; 
+ 	width: 300px; 
+ 	height: 150px;
+ 	border: 1px dotted #ccc;
+ 	padding: 5px 9px; 
+ }
+
+ .txt:focus, .txtarea:focus { border-style: solid; border-color: #bababa; color: #444; }
+
+ input.error, textarea.error { border-color: #973d3d; border-style: solid; background: #f0bebe; color: #a35959; }
+ input.error:focus, textarea.error:focus { border-color: #973d3d; color: #a35959; }
+
+ .close-reveal-modal{
+ 	float: right;
+ 	font-weight: bold;
+ 	cursor:pointer;
+ 	color: $colorBody;
+ }
+ a{
+ 	// color: desaturate(#FACC52, 30%);
+	color: lighten($colorDivider, 10%);
+ }
+ a:hover, a:active{
+ 	color: lighten($colorBody, 20%)
+ }
+ #popup{
+ 	color: #EFEFED;
+ 	font-size: .8em;
+ }
+ h1{
+ 	text-align:center;
+ }
+ .maincontent{
+ 	font-size: 100%;
+ }
+ #hPicture{
+ 	float: left;
+ 	padding: 10px;
+ }
+ #app{
+ 	@include panel(lighten(#11171C, 11%));
+ 	text-align: center;
+ 	font-size: 120%;
+ 	color: white;
+ 	@include border-radius;
+	//@include opacity(0.4);
+}

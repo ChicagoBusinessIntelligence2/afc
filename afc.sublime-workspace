@@ -1,0 +1,1755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"form"
+			],
+			[
+				"dis",
+				"display:inline"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"mt",
+				"mt	margin-top: length"
+			],
+			[
+				"li",
+				"lighten"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"ra",
+				"border-radius"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"form",
+				"form_open	CI - Form Open"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"ma",
+				"mailIcon"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"align",
+				"align"
+			],
+			[
+				"fl",
+				"fl	float: left"
+			],
+			[
+				"na",
+				"navPanel"
+			],
+			[
+				"my",
+				"myNavPanel"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"colo",
+				"colorBody"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"lo",
+				"load_view	CI - Load View"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"hede",
+				"header"
+			],
+			[
+				"fw",
+				"fw	font-weight: bold"
+			],
+			[
+				"ex",
+				"ext	@extend"
+			],
+			[
+				"loa",
+				"load_model	CI - Load Model"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"e",
+				"ee	echo_"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"ff",
+				"ff:f	font-family:fantasy"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"con",
+				"controller	CI - Base Controller"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"cont",
+				"cont1"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"CI_con",
+				"CI_Controller  (class)"
+			],
+			[
+				"ne",
+				"news"
+			],
+			[
+				"func",
+				"function  (keyword)"
+			],
+			[
+				"bkg",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"load",
+				"load"
+			],
+			[
+				"fu",
+				"fun	PHP-Method"
+			],
+			[
+				"form_",
+				"form_label	CI - Form Helper - Label"
+			],
+			[
+				"form_fie",
+				"form_fieldset_close"
+			],
+			[
+				"fun",
+				"fun	PHP-Method"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"Upload",
+				"UploadFileInner"
+			],
+			[
+				"bg",
+				"bgc	background-color: rgb"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"o",
+				"o	overflow: auto"
+			],
+			[
+				"inn",
+				"innerContent"
+			],
+			[
+				"br",
+				"br	border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"men",
+				"menuSelect"
+			],
+			[
+				"c",
+				"c	color: name"
+			],
+			[
+				"isset",
+				"isset  (function)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"form_vali",
+				"form_validation"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"out",
+				"outerWrapper"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"vi",
+				"view_file"
+			],
+			[
+				"an",
+				"anchor	CI - Anchor Helper"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"run",
+				"run_macro_file"
+			],
+			[
+				"get_",
+				"get_id"
+			],
+			[
+				"repl",
+				"replaceWith  (function)"
+			],
+			[
+				"pa",
+				"parents  (function)"
+			],
+			[
+				"remo",
+				"removeAttr  (function)"
+			],
+			[
+				"cu",
+				"currentMenu"
+			],
+			[
+				"f",
+				"fw	font-weight: bold"
+			],
+			[
+				"fs",
+				"fs	font-size: size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bk",
+				"background-color"
+			],
+			[
+				"user",
+				"userArea"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ind",
+				"include"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"Admin",
+				"Administrator"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"floa",
+				"float-left"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"edi",
+				"editUser"
+			],
+			[
+				"Edi",
+				"EditUser"
+			],
+			[
+				"redi",
+				"redirect()"
+			],
+			[
+				"_",
+				"_userId_transferred  (variable)"
+			],
+			[
+				"get_fi",
+				"get_firstName"
+			],
+			[
+				"set",
+				"set_id  (function)"
+			],
+			[
+				"get",
+				"get_id  (function)"
+			],
+			[
+				"up",
+				"updateUser"
+			],
+			[
+				"dele",
+				"deleteFileById"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"foe",
+				"foreach	foreach …"
+			],
+			[
+				"userFi",
+				"userFilesFinal"
+			],
+			[
+				"array_k",
+				"array_key_exists  (function)"
+			],
+			[
+				"get_file",
+				"get_filePath"
+			],
+			[
+				"ta",
+				"ta	text-align: right"
+			],
+			[
+				"file",
+				"filesList"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"fil",
+				"filesList"
+			],
+			[
+				"crea",
+				"createUser"
+			],
+			[
+				"create",
+				"create()	->create()"
+			],
+			[
+				"creat",
+				"create_function()"
+			],
+			[
+				"del",
+				"delUser"
+			],
+			[
+				"adm",
+				"admin_error"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"r",
+				"ret	return"
+			],
+			[
+				"mod",
+				"model	CI - Base Model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>\n<!-- //LOCATION: afc/home \n-->\n<head>\n  <link href=\"<?php echo base_url();?>comp/stylesheets/screen.css\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"<?php echo base_url();?>comp/stylesheets/normalize.css\" media=\"screen, projector, print\" rel=\"stylesheet\" type=\"text/css\" />\n  <script type=\"text/javascript\" src=\"<?php echo base_url(); ?>comp/javascripts/jquery-1.9.1.js\"></script>\n  <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js\"></script> \n  <script type=\"text/javascript\" src=\"<?php echo base_url(); ?>comp/javascripts/script.js\"></script>\n  <title>Chicago Ukrainan Village Real Estate Company</title>\n</head>\n<body class anti-aliased>\n  <div class=\"dividerTop\"></div>\n\n  <div class=\"myNavPanel\">\n    <nav class=\"top-bar mTopBar\">\n      <section class=\"top-bar-section\">\n\n        <ul class=\"socMed\">\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/f.png\"></a></li>\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/t.png\"></a</li>\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/e.png\"></a</li>\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/m.png\"></a</li>\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/d.png\"></a</li>\n          <li><a href=\"#\"><img width='40' height='40' src=\"comp/img/s.png\"></a</li>\n\n\n        </ul>\n\n        <ul class=\"right  navRight\">\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('home', 'Home', array('class'=>'home'));\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('home', 'About Us');\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('buying', 'Buying');\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('home', 'Selling');\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('home', 'Moving');\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('news', 'News');\n            ?>\n          </li>\n          <li class=\"divider\"></li>\n          <li>\n            <?php \n            echo anchor ('home', 'Contact Us');\n            ?>\n          </li>\n\n        </ul>\n      </section>\n    </nav>\n  </div>\n\n  <div class=\"divider\">\n\n  </div>\n\n  <div class=\"header\" >\n    <div class=\"logoWrapper\">\n      <?php echo \"<img width=230  src=\".base_url().\"/comp/img/UV_logo_300.png>\"; ?>\n    </div> <div class=\"contactHeader\">Contact an American First Class Agent\n    <p class=\"plCall\">Please call 312-544-0034 and our qualified</br> Realtors will be happy to assist you</p></div>\n    <div class=\"loginForm\">\n      <div class='SignInTitle'>Sign in to your account:</div>\n      <form method=\"POST\">\n        <span class='uname'>  Username:</span> <input class=\"fld\" type=\"text\" name=\"username\"/><br />\n        <span class='uname'>Password:</span> <input class=\"fld\" type=\"password\" name=\"passwort\" />\n\n        <input  class='button tiny radius' type=\"submit\" value=\"Login\" />\n      </form>\n    </div> \n    \n\n\n    <div class=\"mailIcon\">\n      <?php echo \"<img id=\\\"mailIcon1\\\" src=\".base_url().\"/comp/img/mail_icon1.png>\"; ?>\n    </div>\n\n\n\n\n    <div class=\"homeIcon\">\n      <?php echo \"<img id=\\\"homeIcon\\\" src=\".base_url().\"/comp/img/home_icon.png>\"; ?>\n    </div>\n\n  </div>\n\n  <div class=\"mainContentWrapper large-centered\">\n\n\n    <?php \n    $this->load->view($module. '/' .$view, $data2);\n    ?>\n  </div>\n\n\n  <div class=\"footer\">\n    <footer class=\"row full-width\">\n    <div class=\"large-3 columns bwLogo\">\n      <a href=\"#\">\n        <?php echo \"<img class=imgLogo src=\".base_url().\"/comp/img/UV_logo_300bw.png>\"; ?>\n      </a>\n\n    </div>\n    <div class=\"large-9 columns copyright\">\n      <ul class=\"inline-list lfooter\">\n        <li></li>\n        <li></li>\n        <li></li>\n      </ul>\n    </div>\n  </footer>\n  </div>\n\n\n  <!-- javascript -->\n\n\n  <script type=\"text/javascript\">\n\n  /* My popup starts here */\n\n\n  $(function () {\n    $('#homeIcon').on('mousemove', function(e){\n\n      $('#popup').remove();\n      var varPopup=$('<div></div>', {text: 'Home page', id: 'popup'});      \n      varPopup.css('position', 'absolute');\n      varPopup.css('left', e.pageX-70);\n      varPopup.css('top', e.pageY-30);\n      varPopup.appendTo('body');\n\n    });\n\n    $('#homeIcon').on('mouseout', function(){\n      $('#popup').remove();\n\n    });\n  });\n\n\n  $(function () {\n    $('#mailIcon1').on('mousemove',function(e){\n\n      $('#popup').remove();\n\n      var varPopup = $('<div></div>',{\n        text: 'Message',\n        id:'popup'});\n\n      varPopup.css('position', 'absolute');\n      varPopup.css('left', e.pageX-40);\n      varPopup.css('top', e.pageY-30);\n\n      varPopup.appendTo('body');\n    });\n\n    $('#mailIcon1').on('mouseout',function(){\n\n      $('#popup').remove();\n    });\n  }); \n\n\n  /* My slideDown mail form starts here */\n\n  $('#mailIcon1').on('click', function(){\n    $('#inline').slideDown();\n  });\n\n  $('#close').on('click', function(){\n\n    $('#inline').slideUp();\n  })\n\n\n  </script>\n\n\n\n</body>\n</html>",
+			"file": "application/modules/template/views/vw_template.php",
+			"file_size": 5466,
+			"file_write_time": 130153946873973390,
+			"settings":
+			{
+				"buffer_size": 5293,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "comp/sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 4949,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"red",
+				"TextCommands: Remove Duplicate Lines"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"plea",
+				"ReadmePlease"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ream",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sC",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"snippet:cl",
+				"Snippet: Class"
+			],
+			[
+				"s",
+				"Snippet: Class"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"SC",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"SCB",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"Sc",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"sc",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"lin",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"cod",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"",
+				"CI Codeintel Helper: Create IDE helper"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 698.0
+	},
+	"console":
+	{
+		"height": 497.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/afc/application/modules/home/views/vw_home.php",
+		"/C/xampp/htdocs/afc/comp/config.rb",
+		"/C/xampp/htdocs/afc/application/modules/template/views/vw_template.php",
+		"/C/xampp/htdocs/afc/comp/sass/screen2.scss",
+		"/C/xampp/htdocs/afc/comp/sass/screen.scss",
+		"/C/xampp/htdocs/afc/application/modules/home/controllers/home.php",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Vintage Surround/README.md",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Vintage/README.TXT",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/VintageEx/README.rst",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Vintage Numbers/README.md",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Vintage-Origami/readme.md",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/View Movement/README.md",
+		"/C/xampp/htdocs/afc/application/modules/about_us/controllers/about_us.php",
+		"/C/xampp/htdocs/afc/application/modules/selling/controllers/selling.php",
+		"/C/xampp/htdocs/afc/application/modules/selling/views/vw_selling.php",
+		"/C/xampp/htdocs/afc/application/modules/contact_us/controllers/contact_us.php",
+		"/C/xampp/htdocs/afc/application/modules/contact_us/views/vw_name.php",
+		"/C/xampp/htdocs/afc/application/modules/contact_us/controllers/name.php",
+		"/C/xampp/htdocs/afc/code/style.css",
+		"/C/xampp/htdocs/afc/application/modules/template/controllers/template.php",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/afc/application/config/config.php",
+		"/C/xampp/htdocs/afc/application/config/database.php",
+		"/C/xampp/htdocs/afc/comp/javascripts/script.js",
+		"/C/xampp/htdocs/afc/comp/javascripts/vendor/script.js",
+		"/C/xampp/htdocs/afc/index.php",
+		"/C/xampp/htdocs/afc/comp/sass/side-nav",
+		"/C/xampp/htdocs/afc/comp/javascripts/welcome.js",
+		"/C/xampp/htdocs/afc/comp/javascripts/helloworld.js",
+		"/C/xampp/htdocs/afc/user_guide/general/controllers.html",
+		"/C/xampp/htdocs/afc/application/modules/template/helloworld.js",
+		"/C/xampp/htdocs/afc/application/modules/helloworld/helloworld.js",
+		"/C/xampp/htdocs/afc/application/modules/hello_world/helloworld.js",
+		"/C/xampp/htdocs/afc/application/modules/hello_world/hello_world.js",
+		"/C/xampp/htdocs/afc/application/modules/news/controllers/news.php",
+		"/C/xampp/htdocs/afc/application/modules/news/models/md_news.php",
+		"/C/xampp/htdocs/afc/application/modules/news/views/vw_news.php",
+		"/C/xampp/htdocs/afc/application/modules/about_us/controllers/name.php",
+		"/C/xampp/htdocs/afc/application/modules/buying/models/md_buying.php",
+		"/C/xampp/htdocs/afc/application/modules/buying/views/vw_buying.php",
+		"/C/xampp/htdocs/afc/application/modules/buying/controllers/buying.php",
+		"/C/xampp/htdocs/afc/application/modules/selling/models/md_selling.php",
+		"/C/xampp/htdocs/afc/application/modules/buying/controllers/md_buying.php",
+		"/C/xampp/htdocs/afc/application/controllers/home.php",
+		"/C/xampp/htdocs/afc/application/controllers/welcome.php",
+		"/C/xampp/htdocs/afc/application/config/autoload.php",
+		"/C/xampp/htdocs/afc/application/config/routes.php",
+		"/C/xampp/htdocs/auv/application/modules/news/controllers/news.php",
+		"/C/xampp/htdocs/auv/application/modules/news/models/md_news.php",
+		"/C/xampp/htdocs/auv/application/modules/buying/controllers/buying.php",
+		"/C/xampp/htdocs/auv/application/modules/home/views/vw_home.php",
+		"/C/xampp/htdocs/auv/application/modules/home/controllers/home.php",
+		"/C/xampp/htdocs/auv/application/modules/template/views/vw_template.php",
+		"/C/xampp/htdocs/auv/application/modules/template/controllers/template.php",
+		"/C/xampp/htdocs/auv/comp/sass/screen.scss",
+		"/C/xampp/htdocs/auv/application/modules/buying/views/vw_buying.php",
+		"/C/xampp/htdocs/auv/user_guide/libraries/migration.html",
+		"/C/xampp/htdocs/auv/application/modules/news/views/vw_news.php",
+		"/C/xampp/htdocs/auv/application/modules/buying/models/md_buying.php",
+		"/C/xampp/htdocs/auv/application/config/database.php",
+		"/C/xampp/htdocs/auv/application/config/routes.php",
+		"/C/xampp/htdocs/auv/application/modules/template/controllers",
+		"/C/xampp/htdocs/auv/application/controllers/home.php",
+		"/C/xampp/htdocs/auv/application/.htaccess",
+		"/C/xampp/htdocs/auv/application/config/config.php",
+		"/C/xampp/htdocs/auv/application/config/autoload.php",
+		"/C/xampp/htdocs/auv/application/controllers/welcome.php",
+		"/C/xampp/htdocs/auv/.htaccess",
+		"/C/xampp/htdocs/ukr/application/config/database.php",
+		"/C/xampp/htdocs/ukr/application/modules/tasks/models/tasks.php",
+		"/C/xampp/htdocs/ukr/application/modules/nofun/models/tasks.php",
+		"/C/xampp/htdocs/ukr/application/controllers/hello.php",
+		"/C/xampp/htdocs/ukr/application/models/nofun/controllers/nofun.php",
+		"/C/xampp/htdocs/ukr/application/config/autoload.php",
+		"/C/xampp/htdocs/ukr/application/config/config.php",
+		"/C/xampp/htdocs/ukr/application/config/routes.php",
+		"/C/xampp/htdocs/ukr/application/config/index.html",
+		"/C/xampp/htdocs/a/application/modules/template/views/includes/footer.php",
+		"/C/xampp/htdocs/a/application/modules/template/views/includes/header.php",
+		"/C/xampp/htdocs/a/application/modules/template/controllers/template.php",
+		"/C/xampp/htdocs/a/application/modules/template/views/vw-template.php",
+		"/C/xampp/htdocs/a/application/modules/home/views/vw_home.php",
+		"/C/xampp/htdocs/a/application/modules/home/controllers/home.php",
+		"/C/xampp/htdocs/a/application/controllers/index.html",
+		"/C/xampp/htdocs/a/application/modules/template/views/menu.php",
+		"/C/xampp/htdocs/april/application/modules/About_Us/controllers/About_Us.php",
+		"/C/xampp/htdocs/april/application/modules/Information_Sellers/views/vw-What_is_Shortsale.php",
+		"/C/xampp/htdocs/april/application/modules/template/controllers/template.php",
+		"/C/xampp/htdocs/april/application/modules/template/views/vw-template.php",
+		"/C/xampp/htdocs/a/application/views/vw_template.php",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/a/application/controllers/home.php",
+		"/C/xampp/htdocs/a/application/controllers/news.php",
+		"/C/xampp/htdocs/a/application/models/md_news.php",
+		"/C/xampp/htdocs/a/application/views/vw_news.php",
+		"/C/xampp/htdocs/a/application/views/includes/header.php",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/a/application/views/vw_home.php",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/a/comp/sass/screen.scss",
+		"/C/xampp/htdocs/a/application/config/database.php",
+		"/C/xampp/htdocs/a/application/views/includes/footer.php",
+		"/C/xampp/htdocs/a/application/views/footer.php",
+		"/C/xampp/htdocs/a/application/config/config.php",
+		"/C/xampp/htdocs/a/application/config/routes.php",
+		"/C/xampp/htdocs/a/application/config/autoload.php",
+		"/C/xampp/htdocs/test/application/controllers/welcome.php",
+		"/C/xampp/htdocs/a/application/views/includes/footer",
+		"/C/xampp/htdocs/a/application/controllers/welcome.php",
+		"/C/xampp/htdocs/a/application/views/welcome_message.php",
+		"/C/xampp/htdocs/a/.htaccess",
+		"/C/xampp/htdocs/a/index.php",
+		"/C/xampp/htdocs/a/license.txt",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/myfont.sublime-snippet",
+		"/C/xampp/htdocs/uv/application/views/includes/footer.php",
+		"/C/xampp/htdocs/uv/comp/sass/main.scss",
+		"/C/xampp/htdocs/uv/comp/sass/header.scss",
+		"/C/xampp/htdocs/uv/comp/config.rb",
+		"/C/xampp/htdocs/uv/comp/stylesheets/screen.css",
+		"/C/xampp/htdocs/uv/comp/screen.scss",
+		"/C/xampp/htdocs/uv/comp/sass/screen.scss",
+		"/C/xampp/htdocs/uv/application/controllers/index.html",
+		"/C/xampp/htdocs/uv/application/config/autoload.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages\\.sublime-completions",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			" #",
+			"FAD255",
+			"$&:",
+			"email",
+			"inline",
+			"600px",
+			"500px",
+			"main",
+			"180",
+			"data",
+			"');",
+			"\n	",
+			"!')",
+			"top-bar-section",
+			" >",
+			"hello",
+			"script",
+			"because ",
+			"’",
+			"h2",
+			"1",
+			"fug",
+			"irure",
+			"ut",
+			"reprehenderit",
+			"eiusmod",
+			".",
+			"mainContent",
+			"<!--",
+			"cont",
+			"	{",
+			"['']=",
+			"vw_template",
+			"class",
+			"		$",
+			"ignored",
+			"h1",
+			"dividerTop",
+			"cont1",
+			"vw_home",
+			"mainContentWrapper",
+			"php",
+			"site",
+			"auto",
+			"EDEEEF",
+			"colorleftSideBar",
+			"mainContentWrapper",
+			"color5",
+			"li",
+			"111111",
+			"outerWrapper",
+			">' ",
+			"cont1",
+			"query",
+			"vw_home",
+			"	\n",
+			"data",
+			"phone_number",
+			"contactdata",
+			"phone_number",
+			"user2data",
+			"/>",
+			"us",
+			"current",
+			"breadcrumInner",
+			"current",
+			"title",
+			"body",
+			"newsSubmiButton",
+			"content",
+			"news",
+			"h4",
+			"?></",
+			"firstName",
+			"#UploadFile",
+			"UploadFile",
+			"cursor: pointer;",
+			"navPanelFomatting",
+			"activeMenuF",
+			"9px",
+			"navPanelFomatting",
+			"$border-color",
+			"navPanelFomatting",
+			"border-color",
+			"navAFomatting",
+			"navUlDown",
+			"skokie",
+			"ctrl+shift+s",
+			"skokie",
+			"//LOCATION:",
+			"contentFormatting",
+			"facebookHeaderLogo",
+			"userName",
+			"companyNameStyle",
+			"icon-sf7affd0925.png",
+			".png",
+			"icon",
+			"foundation",
+			"Information_for_Sellers",
+			"headerPhoneNumberStyle",
+			"headerPhoneNumber",
+			"icon-",
+			"Information-For-Sellers",
+			" $system",
+			" $system_folder",
+			"California",
+			"Shudnow",
+			"Mark",
+			"jquery",
+			"Short-Sale-Chicago",
+			"404",
+			"/$",
+			"domain",
+			"found",
+			"404",
+			"$base_url",
+			"localhost",
+			"set_value",
+			"set_val",
+			"firstName",
+			"view_file",
+			"extends MX_Controller {",
+			".php",
+			"Short_Sale_Process",
+			"What_is_Shortsale",
+			"Short_Sale_Chicago",
+			"Remember"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"echo set_value",
+			"echo set_val",
+			"view",
+			"X_Controller {\n\n	 function __construct()\n    {\n        parent::__construct();\n    }\n\n	",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/modules/template/views/vw_template.php",
+					"settings":
+					{
+						"buffer_size": 5293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4018,
+								4018
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2127.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "comp/sass/screen.scss",
+					"settings":
+					{
+						"buffer_size": 4949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 852.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.488194444444,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CoffeeLintPanel":
+	{
+		"height": 132.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 295.0
+	},
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.sftp":
+	{
+		"height": 145.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 132.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"temvw",
+				"afc/application/modules/template/views/vw_template.php"
+			],
+			[
+				"sc",
+				"afc/comp/sass/screen.scss"
+			],
+			[
+				"home",
+				"afc/application/modules/home/controllers/home.php"
+			],
+			[
+				"ho",
+				"application/modules/home/controllers/home.php"
+			],
+			[
+				"vwt",
+				"afc/application/modules/template/views/vw_template.php"
+			],
+			[
+				"vwh",
+				"application/modules/home/views/vw_home.php"
+			],
+			[
+				"vw",
+				"application/modules/template/views/vw_template.php"
+			],
+			[
+				"t",
+				"application/modules/template/controllers/template.php"
+			],
+			[
+				"hom",
+				"application/modules/home/controllers/home.php"
+			],
+			[
+				"s",
+				"comp/sass/screen.scss"
+			],
+			[
+				"bu",
+				"application/modules/buying/views/vw_buying.php"
+			],
+			[
+				"te",
+				"application/modules/template/controllers/template.php"
+			],
+			[
+				"f",
+				"application/views/includes/footer.php"
+			],
+			[
+				"",
+				"application/controllers/home.php"
+			],
+			[
+				"mdn",
+				"application/models/md_news.php"
+			],
+			[
+				"foo",
+				"application/views/includes/footer.php"
+			],
+			[
+				"conta",
+				"application/controllers/contact_us.php"
+			],
+			[
+				"edit",
+				"application/views/EditUser-view.php"
+			],
+			[
+				"admin",
+				"application/controllers/Admin.php"
+			],
+			[
+				"gener",
+				"comp/sass/_generalElements.scss"
+			],
+			[
+				"heade",
+				"comp/sass/_header.scss"
+			],
+			[
+				"header",
+				"application/views/includes/header.php"
+			],
+			[
+				"main",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"newsco",
+				"application/controllers/Legal_News_Chicago_North_Suburbs.php"
+			],
+			[
+				"mains",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"_main",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"edi",
+				"application/views/EditUser-view.php"
+			],
+			[
+				"ad",
+				"application/views/Admin-view.php"
+			],
+			[
+				"adn",
+				"application/views/Admin-view.php"
+			],
+			[
+				"_head",
+				"comp/sass/_header.scss"
+			],
+			[
+				"offi",
+				"application/views/Offices-view.php"
+			],
+			[
+				"offic",
+				"application/views/Offices-view.php"
+			],
+			[
+				"nav",
+				"application/views/includes/nav.php"
+			],
+			[
+				"_ge",
+				"comp/sass/_generalElements.scss"
+			],
+			[
+				"foot",
+				"application/views/includes/footer.php"
+			],
+			[
+				"hea",
+				"comp/sass/_header.scss"
+			],
+			[
+				"scree",
+				"sass/screen.scss"
+			],
+			[
+				"scr",
+				"sass/screen.scss"
+			],
+			[
+				"vw-about_us.php",
+				"application/modules/About_Us/views/vw-About_Us.php"
+			],
+			[
+				"vw-our_partners.php",
+				"application/modules/Our_Partners/views/vw-Our_Partners.php"
+			],
+			[
+				"chicag",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
+				"chi",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
+				"short",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
+				"vwcon",
+				"application/modules/Contact_Us/views/vw-Contact_Us.php"
+			],
+			[
+				"menu",
+				"application/modules/template/views/menu.php"
+			],
+			[
+				"css",
+				"stylesheets/screen.css"
+			],
+			[
+				"_gen",
+				"comp/sass/_generalElements.scss"
+			],
+			[
+				"_mai",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"head",
+				"application/views/includes/header.php"
+			],
+			[
+				"contact",
+				"application/views/Contact-view.php"
+			],
+			[
+				"logi",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"login",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"part",
+				"application/controllers/partner.php"
+			],
+			[
+				"uplo",
+				"application/controllers/Classes/UploadedFile.php"
+			],
+			[
+				"files",
+				"application/models/Files.php"
+			],
+			[
+				"adm",
+				"application/controllers/Admin.php"
+			],
+			[
+				"admi",
+				"application/controllers/Admin.php"
+			],
+			[
+				"file",
+				"application/models/Files.php"
+			],
+			[
+				"client",
+				"application/controllers/client.php"
+			],
+			[
+				"loginform",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"users",
+				"application/models/Users.php"
+			],
+			[
+				"user",
+				"application/controllers/Classes/User.php"
+			],
+			[
+				"lo",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"home-vi",
+				"application/views/Home-view.php"
+			],
+			[
+				"scss",
+				"comp/sass/screen.scss"
+			],
+			[
+				"view",
+				"application/views/Admin-view.php"
+			],
+			[
+				"screen",
+				"comp/sass/screen.scss"
+			],
+			[
+				"unit",
+				"application/controllers/SUnitTest.php"
+			],
+			[
+				"form",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"uploa",
+				"application/controllers/Classes/UploadedFile.php"
+			],
+			[
+				"incl",
+				"application/include.php"
+			],
+			[
+				"uni",
+				"application/controllers/UnitTest.php"
+			],
+			[
+				"he",
+				"application/views/includes/header.php"
+			],
+			[
+				"vi",
+				"application/views/Home-view.php"
+			],
+			[
+				"js",
+				"js/script.coffee"
+			],
+			[
+				"pra",
+				"application/controllers/Law_Practice_Areas.php"
+			],
+			[
+				"ro",
+				"application/config/routes.php"
+			],
+			[
+				"we",
+				"application/views/welcome_view.php"
+			],
+			[
+				"router",
+				"system/core/Router.php"
+			],
+			[
+				"wel",
+				"application/controllers/welcome.php"
+			],
+			[
+				"con",
+				"application/config/config.php"
+			],
+			[
+				"onfi",
+				"comp/config.rb"
+			],
+			[
+				"code",
+				"application/config/database.php"
+			],
+			[
+				"mess",
+				"application/views/welcome_message.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/q/Anita-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true
+}
