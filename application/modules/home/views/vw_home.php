@@ -18,6 +18,7 @@
 
 
 <h1>Welcome to First Class American Management</h1>
+<hr/>
  <p>
 <img id='hPicture'  src="comp/img/condos.jpg" alt="real_estate_luxury_house">
 

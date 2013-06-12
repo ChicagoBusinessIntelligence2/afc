@@ -499,3 +499,8 @@ Load paths:
 2013-06-11 22:21:49 overwrite stylesheets/screen.css 
 2013-06-11 22:23:07 overwrite stylesheets/screen.css 
 2013-06-11 22:23:44 overwrite stylesheets/screen.css 
+2013-06-11 22:52:27 overwrite stylesheets/screen.css 
+2013-06-11 22:58:51     error sass/screen.scss (Line 412: Invalid CSS after "...,"Lucida Grande": expected ";", was "", sans-serif;")
+2013-06-11 22:58:51 overwrite stylesheets/screen.css 
+2013-06-11 23:00:07 overwrite stylesheets/screen.css 
+2013-06-11 23:17:47 overwrite stylesheets/screen.css 
