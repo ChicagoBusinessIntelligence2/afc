@@ -2,11 +2,28 @@
 <!-- //LOCATION: afc/home 
 -->
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Foundation 4</title>
+
+  <link rel="stylesheet" href="comp/stylesheets/normalize.css" />
+
+  <link href="comp/stylesheets/app.css" media="screen, projector, print" rel="stylesheet" type="text/css" />
+  <link href="comp/stylesheets/screen.css" media="screen, projector, print" rel="stylesheet" type="text/css" />
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="comp/javascripts/foundation.min.js"></script>
+  <script src="comp/javascripts/vendor/custom.modernizr.js"></script>
+
+
+
   <link href="<?php echo base_url();?>comp/stylesheets/screen.css" rel="stylesheet" type="text/css" />
   <link href="<?php echo base_url();?>comp/stylesheets/normalize.css" media="screen, projector, print" rel="stylesheet" type="text/css" />
   <script type="text/javascript" src="<?php echo base_url(); ?>comp/javascripts/jquery-1.9.1.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script> 
   <script type="text/javascript" src="<?php echo base_url(); ?>comp/javascripts/script.js"></script>
+
+
   <title>Chicago Ukrainan Village Real Estate Company</title>
 </head>
 <body class anti-aliased>

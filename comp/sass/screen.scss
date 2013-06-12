@@ -1,10 +1,11 @@
 @import "compass";
 @import "app";
+@import "foundation";
+@import "settings";
 @ivclude global-reset;
 @import url(http://fonts.googleapis.com/css?family=Romanesco);
 //LOCATION: afc/home 
  // @import "sassy-buttons";
-
 
 
  * {
@@ -32,6 +33,9 @@
  $colorGray3: #D8E5E9;
  $colorGray4: #e7f1f5;
  $color-top-bar-section: lighten(#525C69, 50%);
+ $contentBackgroundCollor: #FFF;
+ $main-font-size:  1em;
+ $colorFont:#333333;
  .menuFont{
 
  	color: $colorFontMenu!important;
@@ -190,6 +194,7 @@
  	overflow: auto;
  	width: 1100px;
  	margin: 0 auto;
+ 	background-color: $colorMainContent;
  }
  .sideBar{
  	min-height: 550;
@@ -320,7 +325,7 @@
  }
  a{
  	// color: desaturate(#FACC52, 30%);
-	color: lighten($colorDivider, 10%);
+ 	color: lighten($colorDivider, 10%);
  }
  a:hover, a:active{
  	color: lighten($colorBody, 20%)
@@ -332,9 +337,10 @@
  h1{
  	text-align:center;
  }
- .maincontent{
- 	font-size: 100%;
- }
+ // .maincontent{
+ // 	font-size: 100%;
+ // }
+
  #hPicture{
  	float: left;
  	padding: 10px;
@@ -347,3 +353,86 @@
  	@include border-radius;
 	//@include opacity(0.4);
 }
+
+
+/* Contact Us Form starts here*/
+
+.error {
+	color:red;
+	font-weight: bold;
+	margin-left: 20px;
+
+}
+
+.thankYouMessage{
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: green;
+	height: 500px;
+}
+
+.contactUsContent {
+	// float: left;
+	background-color: lighten($colorMainContent, 17%);
+	padding: 40px 20px 40px 25px;
+	position: relative;
+	margin: 0 auto;
+	font-family: "HelveticaNeue","Helvetica Neue", Helvetica, Arial,"Lucida Grande", sans-serif;
+	color: $colorFont;
+	
+	textarea{
+		height: 300px;
+		font-size:$main-font-size;
+		background-color: lighten($colorMainContent, 20%);
+	}
+	#submit {
+		font-size:$main-font-size;
+		margin-left: 14px;
+		margin-top: 1em
+	}
+	input{
+		margin-bottom: 20px;
+		background-color: lighten($colorMainContent, 20%);
+	}
+	label{
+		font-size: $main-font-size;
+		font-family: "HelveticaNeue","Helvetica Neue", Helvetica, Arial,"Lucida Grande", sans-serif !important;
+
+	}
+	fieldset{
+		font-size: 16px;
+		padding-top: 20px;
+		background-color: lighten($colorMainContent, 20%);
+		legend{
+			font-size: 18px;
+			background-color: lighten($colorMainContent, 17%);
+			font-family: "HelveticaNeue","Helvetica Neue", Helvetica, Arial,"Lucida Grande", sans-serif;
+		}
+
+	}
+	button, .button {
+		
+		background-color: lighten($colorBody, 20%);
+		border-color: $colorBody;
+		border-style: solid;
+		border-width: 1px;
+		color: white;
+		font-family: inherit;
+		font-weight: bold;
+		line-height: 1;
+		margin: 0 0 1.25em;
+		padding: 0.75em 1.5em 0.8125em;
+		position: relative;
+		text-align: center;
+		text-decoration: none;
+	}
+
+	.button:hover, .button:focus{
+
+		background-color: darken($colorBody, 10%);
+		border-color: lighten($colorBody, 10%);
+	}
+
+	
+}
+
