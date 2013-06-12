@@ -217,7 +217,7 @@
 
  .mainContent{
  	min-height: 550;
- 	float: left;
+ 	float: left;    
  	padding: 20px;
  	background-color: $colorMainContent;
  }
@@ -279,11 +279,12 @@
  	border: 3px solid black;
  	padding: 1em 1em 1em 1em;
  	float: left;
- 	width:600px;
+ 	width:400px;
  	position:absolute;
- 	right:400px;
+ 	right:600px;
  	top:150px;
  	display:none;
+
  	h2{
  		color: #2D2E27;
  	}	
@@ -325,6 +326,7 @@
  	cursor:pointer;
  	color: $colorBody;
  }
+ .footer{
  a{
  	// color: desaturate(#FACC52, 30%);
  	color: lighten($colorDivider, 10%);
@@ -332,6 +334,7 @@
  a:hover, a:active{
  	color: lighten($colorBody, 20%)
  }
+	 }
  #popup{
  	color: #EFEFED;
  	font-size: .8em;

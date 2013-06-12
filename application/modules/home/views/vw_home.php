@@ -1,18 +1,6 @@
 <!-- //LOCATION: afc/home
  -->
-<div class="mainContent">
-	<div id="inline">
-		<a class="close-reveal-modal" id="close">&#215</a>
-		<h2>Send us a message</h2>
 
-		<form id="contact" name="contact" action="#" method="post">
-			<label for="email">Your e-mail</label>
-			<input type="text" id="email" name="email" class="txt">
-			<label for="message">Your message</label>
-			<textarea id="msg" name="msg" class="txtarea"></textarea>
-<input  class='button radius' type="submit" value="Send" />
-		</form>
-	</div>
 
 <div class='mainContent'>
 
@@ -31,4 +19,4 @@
 
 <p id='app'>Make an appointment with us today and we'll tell you everything you need to know to move ahead with your plans.</p>
  </p></div>
-</div>
+

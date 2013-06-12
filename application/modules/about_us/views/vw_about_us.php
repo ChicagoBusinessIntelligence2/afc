@@ -19,5 +19,12 @@
       <li>Financing: We can provide advice on various sources of funding and referrals to our trusted bank partners.</li>
       <li>Paperwork: We assume the detailed preparation and handling of paperwork, saving you time to focus on the essentials. Our in-depth knowledge of local zoning regulations, realty documentation and other details guarantees you the best deal.</li>
     </ul>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
   </div>
 </div>

@@ -23,4 +23,6 @@
     </div>
         <h4 class="align-center">Once you are ready to put it up for sale, or if you are having trouble assembling the required documentation, please contact us at <strong>312-544-0034</strong>. </h4>
         <h3 class="align-center">We're happy to assist you at every step of the process.</h3>
+<br/><br/><br/><br/><br/>
+
 </div>

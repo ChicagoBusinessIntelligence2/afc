@@ -27,6 +27,19 @@
   <title>Chicago Ukrainan Village Real Estate Company</title>
 </head>
 <body class anti-aliased>
+    <div id="inline">
+    <a class="close-reveal-modal" id="close">&#215</a>
+    <h2>Send us a message</h2>
+
+    <form id="contact" name="contact" action="#" method="post">
+      <label for="email">Your e-mail</label>
+      <input type="text" id="email" name="email" class="txt">
+      <label for="message">Your message</label>
+      <textarea id="msg" name="msg" class="txtarea"></textarea>
+<input  class='button radius' type="submit" value="Send" />
+    </form>
+  </div>
+
   <div class="dividerTop"></div>
 
   <div class="myNavPanel">
@@ -70,12 +83,7 @@
             ?>
           </li>
           <li class="divider"></li>
-          <li>
-            <?php 
-            echo anchor ('moving', 'Moving');
-            ?>
-          </li>
-          <li class="divider"></li>
+          
           <li>
             <?php 
             echo anchor ('news', 'News');
